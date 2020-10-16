@@ -1,0 +1,9 @@
+[submodule "sheldon/0.5.3"]
+	path = sheldon/0.5.3
+	url = https://github.com/rossmacarthur/sheldon.git
+[submodule "sheldon/0.6.0"]
+	path = sheldon/0.6.0
+	url = https://github.com/rossmacarthur/sheldon.git
+[submodule "sheldon/0.5.4"]
+	path = sheldon/0.5.4
+	url = https://github.com/rossmacarthur/sheldon.git
