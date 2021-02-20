@@ -7,3 +7,6 @@
 [submodule "sheldon/0.5.4"]
 	path = sheldon/0.5.4
 	url = https://github.com/rossmacarthur/sheldon.git
+[submodule "sheldon/profile"]
+	path = sheldon/profile
+	url = https://github.com/rossmacarthur/sheldon.git
